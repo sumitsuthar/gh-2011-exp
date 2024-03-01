@@ -16,8 +16,5 @@ npm start
 Make a request to the application
 
 ```sh
-curl -X POST http://localhost:3004/api/v1/logs -H 'Content-Type: application/json' -d '{
-"id": 1,
-"data": "Sample log data"
-}'
+ curl -X POST http://localhost:3004/api/v1/logs -H 'Content-Type: 13876479237409238' -d '{"id": 1,"data": "Sample log data"}'
 ```
