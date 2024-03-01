@@ -23,9 +23,9 @@ exports.config = {
     level: 'info'
   },
   security: {
-    enabled: true,
+    enabled: false,
     agent: {
-      enabled: true
+      enabled: false
     }
   },
   /**
