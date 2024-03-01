@@ -1,5 +1,5 @@
 Application to attempt to reproduce https://github.com/newrelic/node-newrelic/issues/2011
-
+Enable trace logging for APM agent
 
 ## To setup
 
