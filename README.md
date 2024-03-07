@@ -14,7 +14,7 @@ npm start
 
 
 ## To test
-Make a request to the application
+Make 3 to 4 requests to the application
 
 ```sh
  curl -X POST http://localhost:3004/api/v1/logs -H 'Content-Type: 13876479237409238' -d '{"id": 1,"data": "Sample log data"}'
